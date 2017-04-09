@@ -31,6 +31,7 @@ public class PedirPatagoniaActivity extends AppCompatActivity {
     @BindView(R.id.pint3) ImageView mPintSelect3;
     @BindView(R.id.conductor_designado) Button mConductorDesignado;
     @BindView(R.id.nosequepedir) Button mNoseQuePedir;
+    @BindView(R.id.aceptar_pedido) Button mAceptarPedido;
 
     private int mQty_beer1;
     private int mQty_beer2;
@@ -155,6 +156,14 @@ public class PedirPatagoniaActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent noSeQuePedir = new Intent(getApplication(), AdviceBeer1Activity.class);
                 startActivity(noSeQuePedir);
+            }
+        });
+
+        mAceptarPedido.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent aceptarPed = new Intent(getApplication(), CompraOkActivity.class);
+                startActivity(aceptarPed);
             }
         });
     }
