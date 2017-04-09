@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:5:5-57:19
+MERGED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Martin1/.android/build-cache/ff188d5851acacb762dc785da8612478ac9ef8e0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/e646454f0c15926032d831924b2753ebed4b9295/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/bc2fabda3f97aa9a8a8bd1bceb5c589df84039f8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Martin1/.android/build-cache/77830f6a57551eb778417dffca7e47282fcb5b23/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Martin1/.android/build-cache/c81aae4d27524fee592fe6c26cb854f7735a3cac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Martin1/.android/build-cache/bb0df677cd457a70ef8ad8cc617ad9bd81828634/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Martin1/.android/build-cache/188bf62445c6a539b82df61254edac6f1cfd171f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Martin1/.android/build-cache/d5a36d9a0664453e75e2ec7cf7897aec4a816c41/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Martin1/.android/build-cache/aab16654928fe1acf4a42c7f97f56ab729fb531d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Martin1/.android/build-cache/c4e07f4abd83cbd6ca26f3bb962b07e7b7abb0b9/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Martin1/.android/build-cache/91a22d9ecc5ccf563bbfa34f51c4f81144c65afe/output/AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/Martin1/.android/build-cache/e1ef20f849b3ab207ce300c8d6ef63ccbe9347b9/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.test.ionnt.patagonia.LoginActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:13:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.test.ionnt.patagonia.FacebookPopupActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:23:9-26:53
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:26:13-50
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:24:13-50
+activity#com.test.ionnt.patagonia.MainActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:28:9-31:59
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:30:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:29:13-41
+activity#com.test.ionnt.patagonia.ConductorActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:33:9-36:53
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:34:13-46
+activity#com.test.ionnt.patagonia.PedirPatagoniaActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:38:9-41:47
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:39:13-51
+activity#com.test.ionnt.patagonia.TriviaPatagoniaActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:43:9-46:47
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:44:13-52
+activity#com.test.ionnt.patagonia.CorrectAnswerActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:48:9-51:53
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:51:13-50
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:49:13-50
+activity#com.test.ionnt.patagonia.ErrorAnswerActivity
+ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:53:9-56:53
+	android:screenOrientation
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:56:13-50
+	android:name
+		ADDED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml:54:13-48
+uses-sdk
+INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Martin1/.android/build-cache/ff188d5851acacb762dc785da8612478ac9ef8e0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/e646454f0c15926032d831924b2753ebed4b9295/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/bc2fabda3f97aa9a8a8bd1bceb5c589df84039f8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Martin1/.android/build-cache/d6688a6932ffbf9b3db55aad8010e87bb3d8de5b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Martin1/.android/build-cache/77830f6a57551eb778417dffca7e47282fcb5b23/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Martin1/.android/build-cache/c81aae4d27524fee592fe6c26cb854f7735a3cac/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Martin1/.android/build-cache/bb0df677cd457a70ef8ad8cc617ad9bd81828634/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Martin1/.android/build-cache/188bf62445c6a539b82df61254edac6f1cfd171f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Martin1/.android/build-cache/d5a36d9a0664453e75e2ec7cf7897aec4a816c41/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Martin1/.android/build-cache/aab16654928fe1acf4a42c7f97f56ab729fb531d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Martin1/.android/build-cache/c4e07f4abd83cbd6ca26f3bb962b07e7b7abb0b9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/Martin1/.android/build-cache/a1fccce7b6a08e61ea2f68c5f0fa059d68a54d41/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Martin1/.android/build-cache/91a22d9ecc5ccf563bbfa34f51c4f81144c65afe/output/AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/Martin1/.android/build-cache/e1ef20f849b3ab207ce300c8d6ef63ccbe9347b9/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Martin1/.android/build-cache/ff188d5851acacb762dc785da8612478ac9ef8e0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/e646454f0c15926032d831924b2753ebed4b9295/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Martin1/.android/build-cache/bc2fabda3f97aa9a8a8bd1bceb5c589df84039f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Martin1/.android/build-cache/d6688a6932ffbf9b3db55aad8010e87bb3d8de5b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Martin1/.android/build-cache/77830f6a57551eb778417dffca7e47282fcb5b23/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Martin1/.android/build-cache/c81aae4d27524fee592fe6c26cb854f7735a3cac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Martin1/.android/build-cache/bb0df677cd457a70ef8ad8cc617ad9bd81828634/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Martin1/.android/build-cache/188bf62445c6a539b82df61254edac6f1cfd171f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Martin1/.android/build-cache/d5a36d9a0664453e75e2ec7cf7897aec4a816c41/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Martin1/.android/build-cache/aab16654928fe1acf4a42c7f97f56ab729fb531d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Martin1/.android/build-cache/91a22d9ecc5ccf563bbfa34f51c4f81144c65afe/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Martin1/.android/build-cache/483e14aa74e1cc4ec763a04cb727182e3e5ee2c5/output/AndroidManifest.xml:26:9-47
