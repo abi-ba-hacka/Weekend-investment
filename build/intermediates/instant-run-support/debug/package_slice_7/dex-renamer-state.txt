@@ -1,4 +1,0 @@
-#Sun Apr 09 13:47:30 ART 2017
-base.0=/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
-renamed.0=classes.dex
-file.0=/Users/Martin1/Documents/patagonia_hackaton/Patagonia/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
